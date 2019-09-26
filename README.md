@@ -1,2 +1,2 @@
 # COMP3220
-Principle of Programming Languages
+Fall 2018
